@@ -18,7 +18,6 @@ cscope.*
 .project
 *.pyc
 **/pyformat
-SOURCE_VERSION
 .settings/
 *.sw*
 tags
